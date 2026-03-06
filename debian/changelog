@@ -1,8 +1,19 @@
-libepoxy (1.5.9-2deepin1) unstable; urgency=medium
+libepoxy (1.5.10-2) unstable; urgency=medium
 
-  * feat: add sw64 support.
+  [ Debian Janitor ]
+  * Remove constraints unnecessary since buster (oldstable):
+    + Build-Depends: Drop versioned constraint on meson.
 
- -- hudeng <hudeng@deepin.org>  Thu, 29 May 2025 17:45:20 +0800
+  [ Timo Aaltonen ]
+  * Ignore test results on loong64. (Closes: #1051319)
+
+ -- Timo Aaltonen <tjaalton@debian.org>  Mon, 02 Sep 2024 11:37:06 +0300
+
+libepoxy (1.5.10-1) unstable; urgency=medium
+
+  * New upstream release.
+
+ -- Timo Aaltonen <tjaalton@debian.org>  Sat, 02 Apr 2022 06:37:55 +0300
 
 libepoxy (1.5.9-2) unstable; urgency=medium
 
