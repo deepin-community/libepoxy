@@ -1,3 +1,9 @@
+libepoxy (1.5.10-2deepin1) unstable; urgency=medium
+
+  * feat: add sw64 support.
+
+ -- tunaichao <tunaichao@uniontech.com>  Wed, 11 Mar 2026 17:54:37 +0800
+
 libepoxy (1.5.10-2) unstable; urgency=medium
 
   [ Debian Janitor ]
