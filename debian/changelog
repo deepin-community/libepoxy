@@ -1,3 +1,9 @@
+libepoxy (1.5.10-2deepin2) unstable; urgency=medium
+
+  * Rebuild with LTO enabled (dpkg vendor feature optimize/lto).
+
+ -- tunaichao <tunaichao@uniontech.com>  Fri, 11 Sep 2026 15:54:04 +0800
+
 libepoxy (1.5.10-2deepin1) unstable; urgency=medium
 
   * feat: add sw64 support.
